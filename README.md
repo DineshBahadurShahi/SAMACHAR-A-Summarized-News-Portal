@@ -1,6 +1,7 @@
-<div style="text-align:center;">
+<p align="center">
   <img src="/InNews-master/Meta/samachar.jpg" alt="screenshot" style="width:300px;height:auto;">
-</div>
+</p>
+
 
 
 ## SAMACHAR: A Summarized News 📰 Portal
