@@ -54,7 +54,8 @@ SAMACHAR/
 ```
 
 ## Screenshots
-![Home Page](Meta/screenshot.jpg)
+!(https://github.com/username/repository/raw/main/Meta/screenshot.png)
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
