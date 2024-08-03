@@ -22,21 +22,21 @@ To run this project locally, follow these steps:
 2. **Set up a virtual environment**:
 ```sh
     python -m venv venv 
-
+```
 3. **Activate the virtual environment**:
 ```sh
     venv\Scripts\activate
-
+```
 4.  **Install the required packages**:
 ```sh
     pip install -r requirements.txt
-
+``` 
 5.  **Download NLTK resources**:
 ```sh
     python -m nltk.downloader punkt
-
-
 ```
+
+
 ## Project Structure
 ```
 SAMACHAR/
@@ -51,7 +51,7 @@ SAMACHAR/
 │   ├── default_image.png
 │   └── screenshot.jpg           # Screenshot of the application
 └── README.md                    # Project documentation
-
+```
 
 ## Screenshots
 ![Home Page](Meta/screenshot.jpg)
