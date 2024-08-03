@@ -54,7 +54,8 @@ SAMACHAR/
 ```
 
 ## Screenshots
-!(https://github.com/username/repository/raw/main/Meta/screenshot.png)
+<img src="/InNews-master/Meta/screenshot.jpg" alt="screenshot" style="max-width:100%;height:auto;">
+
 
 
 ## Contributing
